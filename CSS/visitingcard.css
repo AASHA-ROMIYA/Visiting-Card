@@ -176,7 +176,7 @@ cursor: pointer;
  
     background-color: rgb(163, 112, 212);
 }
-@media(max-width:350px){
+@media(max-width:400px){
     .backgrounds{
         width:100%;
         height:auto;
